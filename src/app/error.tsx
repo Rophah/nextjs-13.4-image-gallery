@@ -16,3 +16,4 @@ export default function Error({ error, reset }: ErrorPageProps) {
         </div>
     );
 }
+

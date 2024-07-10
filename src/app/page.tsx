@@ -1,6 +1,7 @@
 import { Alert } from "@/components/bootstrap";
 
 export default function Home() {
+  
   return (
     <div>
       <Alert>
